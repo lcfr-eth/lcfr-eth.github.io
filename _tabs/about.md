@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Rehabilitated blackhat looking for bugs in things and writing exploits D:
+Finding bugs & Writing exploits.
 
 # Contact 
 
