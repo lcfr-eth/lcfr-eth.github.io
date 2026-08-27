@@ -7,7 +7,7 @@ categories: web3
 ![image](/assets/img/lost.jpeg)
 
 ##### Quick Links 
-[About ENS: Decentralized Domain Name System](#about-ens)  
+[About ENS: Decentralized Domain Name System](#about-ens-decentralized-domain-name-system)  
 [ENS Registration & Metadata explained](#ens-registration--metadata-explained)  
 [ENS Subgraph Service](#ens-subgraph-service)  
 [ENS Metadata Service](#ens-metadata-service)  

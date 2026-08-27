@@ -9,7 +9,7 @@ categories: web3
 
 ##### Quick Links 
 [About ENS and ENS Subdomains](#about-ens-and-ens-subdomains)  
-[About the NameWrapper](#about-the-ens-namewrapper)  
+[About the NameWrapper](#about-the-namewrapper)  
 [Finding the bug](#finding-the-bug)  
 [Proof of Concept](#proof-of-concept)  
 [Patch](#patch)  
